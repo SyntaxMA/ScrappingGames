@@ -1,3 +1,7 @@
+/**
+ * Esta clase creada como otro extra de la clase SO, esta hará la que haga del menu y haga mas de visual de la clase SO.
+ */
+
 public class Menu {
     /**
      * Este metodo sirve para crear las opciones del menu.

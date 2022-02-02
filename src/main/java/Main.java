@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.Scanner;
 
+/**
+ * Esta clase creada básicamente para ser la encargada en hacer el run y hacer los preparativos de los documentos XML y CSV.
+ */
+
 public class Main {
   static Scanner scan = new Scanner(System.in);
 

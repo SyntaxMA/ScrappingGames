@@ -4,6 +4,10 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 
 import java.awt.*;
 
+/**
+ * Esta es la clase SO, es la clase extra creada para hacer la elección sobre que sistema operativo tiene el usuario y que gecko driver usar.
+ */
+
 public class SO {
 
     /**
