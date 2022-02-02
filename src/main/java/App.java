@@ -62,9 +62,9 @@ public class App implements Runnable {
 
             try {
 
-                nombre = juegoElement.findElement(new By.ByClassName("name_game")).getText();
+                nombre = juegoElement.findElement(new By.ByClassName("s_title_block")).getText();
                 imagen = juegoElement.findElement(new By.ByClassName("mb05 imgabsoluta")).getAttribute("src");
-                fecha = juegoElement.findElement(new By.ByClassName("date")).getText();
+                fecha = juegoElement.findElement(new By.ByClassName("price")).getText();
                 plataformas = juegoElement.findElement(new By.ByClassName("color83")).getText();
                 descripcion = juegoElement.findElement(new By.ByClassName("product-desc")).getText();
 
